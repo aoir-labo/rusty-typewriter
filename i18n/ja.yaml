@@ -1,0 +1,34 @@
+# Root
+theme_light: Light Theme
+theme_dark: Dark Theme
+
+# Not found (404)
+not_found_title: Whoops, page not found!(404)
+not_found_desc: 探しているものが見つからないこともあります――このページも、そのひとつです
+not_found_home_link: Go Back Home
+
+# Footer
+scroll_top: Scroll to Top
+footer: Made with ❤️ and powered by {{ .ThemeAnchor }} theme for {{ .HugoAnchor }}
+
+# Home
+featured_posts: Featured Posts
+recent_posts: Recent Posts
+
+# Search
+js_required: JavaScript を有効にする必要があります
+search_loading: Loading...
+search_placeholder: Search...
+
+# SidePane for home
+see_all: See all...
+
+# Page
+breadcrumb_home: Home
+
+# SidePane for single pages
+details_words: words
+details_read_time: minutes read
+side_table_of_contents: Table Of Contents
+side_attachments: Attachments
+side_related: Related
